@@ -17,6 +17,8 @@ print()
 print(f'국어={kor}')
 print(f'영어={eng}')
 print(f'평균={avg}')
+print('오늘은 2월 05일 목요일')
+print('내일은 2월 06일 금요일')
 
 
 
